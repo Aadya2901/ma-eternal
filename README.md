@@ -1,4 +1,5 @@
-# 🤰 Ma-Eternal – Empowering Every Stage of Maternal Health  
+🌸 Ma-Eternal – Care. Comfort. Confidence.
+Empowering women through every stage of reproductive health with AI-powered tools and compassionate digital care. 
 *A Maternal Health & Wellness Web App (In Development)*
 
 **Ma-Eternal** is a work-in-progress web application aimed at transforming maternal health support through accessible digital care. It provides a comprehensive platform for women across different stages of reproductive health — from menstruation and fertility to pregnancy and postpartum wellness.
