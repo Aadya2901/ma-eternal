@@ -1,75 +1,79 @@
-🌸 Ma-Eternal – Care. Comfort. Confidence.
+# 🌸 Ma-Eternal – Care. Comfort. Confidence.  
+*A Maternal Health & Wellness Web App (In Progress)*
 
-Empowering women through every stage of reproductive health with AI-powered tools and compassionate digital care. 
-*A Maternal Health & Wellness Web App (In Development)*
+**Ma-Eternal** is a web-based platform designed to support women through every stage of reproductive health — from menstruation and ovulation to pregnancy and postpartum wellness. Combining AI-powered tools, personalized guidance, and empathetic design, the app offers a unified space for physical, emotional, and mental care.
 
-**Ma-Eternal** is a work-in-progress web application aimed at transforming maternal health support through accessible digital care. It provides a comprehensive platform for women across different stages of reproductive health — from menstruation and fertility to pregnancy and postpartum wellness.
-
-By integrating AI-powered features, secure data storage, and a calming user experience, Ma-Eternal strives to deliver personalized care, smart reminders, and emotional well-being tools — all within a single, supportive space.
+Whether you're tracking cycles, navigating pregnancy, or simply focusing on well-being, Ma-Eternal empowers you to prioritize your health — with care, comfort, and confidence.
 
 ---
 
-## 🌸 Key Features
+## 🌿 Key Features (Planned)
 
-- 🩸 **Cycle & Ovulation Tracker** – Predicts and logs menstrual cycles with personalized tips  
-- 🤰 **Pregnancy Progress Monitor** – Week-by-week development insights and health guidance  
-- 💬 **AI Chatbot Assistant** – Answers maternal health queries and offers instant support  
-- 🍽️ **Diet & Nutrition Planner** – Stage-specific meal suggestions with daily reminders  
-- 💊 **Medication & Appointment Reminders** – Never miss essential care moments  
-- 🧘 **Mental Health & Mood Logs** – Emotional journaling and mindfulness features  
-
----
-
-## 🔧 Tech Stack (Planned)
-
-| Layer       | Technologies                          |
-|-------------|---------------------------------------|
-| Frontend    | HTML5, CSS3, JavaScript, React.js     |
-| Backend     | Node.js, Express.js                   |
-| Database    | MongoDB / Firebase (secure storage)   |
-| AI Chatbot  | OpenAI API, Dialogflow (planned)      |
-| Auth        | Google OAuth, OTP-based login         |
-| Design      | Figma, Responsive UI, Material Design |
+- 🩸 **Period & Ovulation Tracker** – Predict cycles, log symptoms, and set reminders  
+- 🤰 **Pregnancy Dashboard** – Week-by-week insights and prenatal health guidance  
+- 💬 **AI-Powered Chatbot** – Get quick answers to maternal health questions  
+- 🍽️ **Diet & Nutrition Planner** – Personalized meal tips based on cycle/stage  
+- 💊 **Medication & Appointment Alerts** – Never miss your care routine  
+- 🧘 **Mental Wellness Toolkit** – Mood tracking, journaling, and mindfulness support  
+- 📱 **Fully Responsive Design** – Seamless experience across all devices  
 
 ---
 
-## 🛠️ Development Status
+## 🛠️ Tech Stack (Planned)
 
-- ✅ Feature planning and wireframes completed  
-- ✅ Component-based frontend architecture designed  
-- 🔧 Currently building the **cycle tracker** and **pregnancy dashboard**  
-- 🔜 Backend integration and AI chatbot development to follow  
-
----
-
-## 🚀 What's Coming Next
-
-Here’s a look at upcoming milestones and planned features for Ma-Eternal:
-
-- 🔄 **Smart Calendar Integration** – Sync with Google Calendar for cycle and appointment alerts  
-- 🗣️ **Voice-Enabled Chatbot** – Conversational support for hands-free interaction  
-- 🌐 **Multilingual Interface** – Regional language options to ensure wider accessibility  
-- 🧠 **Mental Health Dashboard** – Mood graphs, journaling streaks, and guided affirmations  
-- 📱 **Mobile Responsiveness & PWA** – Seamless experience across devices  
-- 👩‍⚕️ **Doctor Connect (Beta)** – Secure messaging and Q&A with verified professionals  
-- 🔒 **Privacy-First Data Handling** – Encrypted storage and user-controlled sharing  
-
-We are committed to making Ma-Eternal a complete ecosystem for maternal health — informative, empathetic, and empowering.
+| Layer         | Tools & Technologies                    |
+|---------------|------------------------------------------|
+| **Frontend**  | HTML5, CSS3, JavaScript, React.js        |
+| **Backend**   | Node.js, Express.js                      |
+| **Database**  | MongoDB / Firebase                       |
+| **AI Chatbot**| OpenAI API, Dialogflow (planned)         |
+| **Auth**      | Google OAuth, OTP-based login            |
+| **Design**    | Figma, soft UI with accessibility focus  |
 
 ---
 
-## 🤝 Contributions Welcome
+## 💡 My Contributions
 
-If you're passionate about women's health, frontend/backend development, or AI for good, feel free to open issues, fork the repo, or suggest improvements. We'd love to collaborate.
+- Spearheaded concept development and feature design  
+- Created user flows, wireframes, and modular architecture  
+- Leading frontend development with React  
+- Researching chatbot integration and UX for wellness  
+- Ensuring a privacy-first, inclusive experience throughout
+
+---
+
+## 🌟 Current Status
+
+✔️ Core idea, flowcharts, and UI mockups completed  
+✔️ Repository and build environment set up  
+🚧 Frontend development underway (cycle tracker & pregnancy module)  
+🔜 Upcoming: chatbot assistant, mental health dashboard, calendar sync
+
+---
+
+## 🔮 What's Coming Next
+
+- 🗓️ Smart calendar integration with Google  
+- 🗣️ Voice-enabled chatbot support  
+- 🌐 Multilingual access (regional language support)  
+- 📈 Analytics-based mood and cycle graphs  
+- 👩‍⚕️ Optional doctor connect & anonymous Q&A  
+- 🔐 End-to-end encrypted data storage and user controls
+
+---
+
+## 🤝 Contributions
+
+We're open to collaboration! If you're passionate about women's health, frontend/backend dev, or wellness-focused UX — feel free to fork, open issues, or submit ideas.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
 
-## 🔗 Repository
+## 🔗 GitHub Repository
 
-[GitHub Repo → Ma-Eternal](https://github.com/Aadya2901/ma-eternal)
+[github.com/Aadya2901/ma-eternal](https://github.com/Aadya2901/ma-eternal)
