@@ -15,9 +15,8 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 
 ## 🚀 Live Demo
 
-🔗 **Website:** (Visit the Website) [https://ma-eternal-blush.vercel.app/]
-🔗 **Demo:** (Watch a Video) []
-
+🔗 **Website:** [Visit the Website](https://ma-eternal-blush.vercel.app/)
+**Demo Video:** [Watch Demo on YouTube]()
 
 ---
 
