@@ -67,8 +67,6 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🌸 Home / Landing Page  
 ![Home Page](screenshots/home_placeholder.png)
 
@@ -96,6 +94,22 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 
 
 ```
+.
+├── .env
+├── .gitignore
+├── bun.lockb
+├── components.json
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├──  vite.config.ts
+└── README.md # This file
 
 ```
 
