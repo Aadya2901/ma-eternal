@@ -1,79 +1,173 @@
 # 🌸 Ma-Eternal – Care. Comfort. Confidence.  
-*A Maternal Health & Wellness Web App (In Progress)*
+*A Maternal Health & Wellness Web App*
 
-**Ma-Eternal** is a web-based platform designed to support women through every stage of reproductive health — from menstruation and ovulation to pregnancy and postpartum wellness. Combining AI-powered tools, personalized guidance, and empathetic design, the app offers a unified space for physical, emotional, and mental care.
+**Ma-Eternal** is a responsive, empathetic, and privacy-first web application designed to support women throughout their reproductive health journey — from menstruation and ovulation to pregnancy and postpartum well-being.
 
-Whether you're tracking cycles, navigating pregnancy, or simply focusing on well-being, Ma-Eternal empowers you to prioritize your health — with care, comfort, and confidence.
-
----
-
-## 🌿 Key Features (Planned)
-
-- 🩸 **Period & Ovulation Tracker** – Predict cycles, log symptoms, and set reminders  
-- 🤰 **Pregnancy Dashboard** – Week-by-week insights and prenatal health guidance  
-- 💬 **AI-Powered Chatbot** – Get quick answers to maternal health questions  
-- 🍽️ **Diet & Nutrition Planner** – Personalized meal tips based on cycle/stage  
-- 💊 **Medication & Appointment Alerts** – Never miss your care routine  
-- 🧘 **Mental Wellness Toolkit** – Mood tracking, journaling, and mindfulness support  
-- 📱 **Fully Responsive Design** – Seamless experience across all devices  
+With cycle tracking, pregnancy insights, nutrition guides, mental wellness tools, and an AI-powered assistant, the platform creates a safe, judgment-free space for women to understand and care for their health.
 
 ---
 
-## 🛠️ Tech Stack (Planned)
+## 🎯 Project Objective
 
-| Layer         | Tools & Technologies                    |
-|---------------|------------------------------------------|
-| **Frontend**  | HTML5, CSS3, JavaScript, React.js        |
-| **Backend**   | Node.js, Express.js                      |
-| **Database**  | MongoDB / Firebase                       |
-| **AI Chatbot**| OpenAI API, Dialogflow (planned)         |
-| **Auth**      | Google OAuth, OTP-based login            |
-| **Design**    | Figma, soft UI with accessibility focus  |
+To build an **accessible, user-friendly, and emotionally supportive maternal health platform** using a front-end–focused architecture — enabling users to track their cycles, monitor pregnancy, log symptoms, and receive wellness guidance through a calm, comforting interface.
 
 ---
 
-## 💡 My Contributions
+## 🚀 Live Demo
 
-- Spearheaded concept development and feature design  
-- Created user flows, wireframes, and modular architecture  
-- Leading frontend development with React  
-- Researching chatbot integration and UX for wellness  
-- Ensuring a privacy-first, inclusive experience throughout
+🔗 **Visit Ma-Eternal:** https://ma-eternal.lovable.app/  
+
 
 ---
 
-## 🌟 Current Status
+## 🖥️ Tech Stack
 
-✔️ Core idea, flowcharts, and UI mockups completed  
-✔️ Repository and build environment set up  
-🚧 Frontend development underway (cycle tracker & pregnancy module)  
-🔜 Upcoming: chatbot assistant, mental health dashboard, calendar sync
-
----
-
-## 🔮 What's Coming Next
-
-- 🗓️ Smart calendar integration with Google  
-- 🗣️ Voice-enabled chatbot support  
-- 🌐 Multilingual access (regional language support)  
-- 📈 Analytics-based mood and cycle graphs  
-- 👩‍⚕️ Optional doctor connect & anonymous Q&A  
-- 🔐 End-to-end encrypted data storage and user controls
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Framework:** (Lovable.dev generated UI components)  
+- **AI Assistant:** Gemini API (maternal health guidance)  
+- **Design:** Soft UI, warm color palette, accessible layouts  
+- **Architecture:** Modular, mobile-first component structure  
+- **No backend required** for core app functionality
 
 ---
 
-## 🤝 Contributions
+## 🌟 Features
 
-We're open to collaboration! If you're passionate about women's health, frontend/backend dev, or wellness-focused UX — feel free to fork, open issues, or submit ideas.
+### 🌸 CycleSense (Period & Ovulation Tracker)
+- Predict periods, fertile windows, and ovulation  
+- Log symptoms, moods, cravings, and energy levels  
+- Smart reminders for phases and wellness tasks  
+
+### 🤰 BabyBloom (Pregnancy Tracker)
+- Week-by-week fetal development updates  
+- Nutrition and self-care checklists  
+- Doctor appointment reminders  
+
+### 💬 MamaAI (AI Health Assistant)
+- Private, non-judgmental answers to maternal health questions  
+- Simple explanations of symptoms  
+- Strictly non-medical, self-care–oriented guidance  
+
+### 🍽️ NutriNest (Cycle & Pregnancy Nutrition)
+- Personalized meal suggestions  
+- Diet recommendations adapted to cycle phases  
+- Trimester-wise pregnancy nutrition guides  
+
+### 🧘 MindEase (Mood & Wellness Dashboard)
+- Mood journaling and emotional check-ins  
+- Mindfulness & self-care prompts  
+- A calm digital space for mental wellness  
+
+### 🔐 Privacy & Comfort
+- Optional login  
+- Minimal sensitive data usage  
+- Soft, comforting UI optimized for women’s health  
 
 ---
 
-## 📄 License
+## 📸 Screenshots
 
-This project is licensed under the MIT License.
+## 📸 Screenshots
+
+### 🌸 Home / Landing Page  
+![Home Page](screenshots/home_placeholder.png)
+
+### 🩸 CycleSense – Period & Ovulation Tracker  
+![Cycle Tracker](screenshots/cyclesense_placeholder.png)
+
+### 🤰 BabyBloom – Pregnancy Tracker  
+![Pregnancy Module](screenshots/pregnancy_placeholder.png)
+
+### 💬 MamaAI – Maternal Health Assistant  
+![AI Assistant](screenshots/chatbot_placeholder.png)
+
+### 🧘 MindEase – Mental Wellness Dashboard  
+![Mental Wellness](screenshots/wellness_placeholder.png)
+
+### 🍽️ NutriNest – Nutrition Planner  
+![Nutrition Planner](screenshots/nutrition_placeholder.png)
+
+### 🔐 Privacy & Settings  
+![Settings](screenshots/settings_placeholder.png)
 
 ---
 
-## 🔗 GitHub Repository
+## 📁 Folder Structure
 
-[github.com/Aadya2901/ma-eternal](https://github.com/Aadya2901/ma-eternal)
+
+```
+
+```
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/ma-eternal.git
+cd ma-eternal
+```
+
+### 2. Run Locally
+
+Option 1:
+Open `index.html` directly in your browser.
+
+Option 2 (Recommended):
+Use Live Server for auto-refresh:
+
+```
+npm install -g live-server
+live-server
+```
+
+### 3. Deploy on Vercel
+
+Push repo to GitHub
+
+Go to **Vercel** → **New Project**
+
+Select your repository
+
+Framework: Other
+
+Root directory:  `/`
+
+Click **Deploy**
+
+Your site will be live in seconds.
+
+👥 Contributors
+Team Member	Role
+@aadya2901	AI Integration, UX Design, Frontend Architecture, Deployment
+@ananyamishra13	Page Development, UI Components, Output Sections
+@iam-anish15	UI Styling, Visual Design, Frontend Enhancements
+🤝 Contributing
+
+We welcome suggestions, improvements, and new ideas:
+
+Fork the repo
+
+Create a feature branch
+
+Commit your changes
+
+Push the branch
+
+Open a Pull Request
+
+---
+
+###📝 License
+
+This project is open source under the **MIT License**.
+
+---
+
+### 💬 Final Note
+
+“Empowering women with comfort, confidence, and compassionate digital care.” 🌸
+
+
