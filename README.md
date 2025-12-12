@@ -15,7 +15,8 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 
 ## 🚀 Live Demo
 
-🔗 **Visit Ma-Eternal:** https://ma-eternal.lovable.app/  
+🔗 **Website:** [Visit the Website] (https://ma-eternal-blush.vercel.app/)
+🔗 **Demo:** [Watch a Video] ()
 
 
 ---
@@ -110,7 +111,6 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 ├── tsconfig.node.json
 ├──  vite.config.ts
 └── README.md # This file
-
 ```
 
 ---
@@ -174,7 +174,7 @@ Open a Pull Request
 
 ---
 
-###📝 License
+### 📝 License
 
 This project is open source under the **MIT License**.
 
