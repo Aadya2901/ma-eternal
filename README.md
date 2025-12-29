@@ -1,40 +1,97 @@
 # 🌸 Ma-Eternal – Care. Comfort. Confidence.
-*A Maternal Health & Wellness Web App*
+*A Compassionate Maternal Health & Wellness Web App*
 
-**Ma-Eternal** is a responsive, empathetic, and privacy-first web application designed to support women throughout their reproductive health journey — from menstruation and ovulation to pregnancy and postpartum well-being.
+**Ma-Eternal** is a responsive, privacy-first maternal health and wellness web application designed to support women across every stage of their reproductive journey — from menstruation and ovulation to pregnancy, mental well-being, and self-care.
 
-With cycle tracking, pregnancy insights, nutrition guidance, mental wellness tools, and an AI-powered assistant, the platform creates a **safe, judgment-free digital space** for women to understand and care for their health.
+Instead of overwhelming users with clinical jargon or rigid medical workflows, Ma-Eternal focuses on **empathy, accessibility, emotional safety, and awareness**, helping women better understand their bodies while encouraging informed and mindful health decisions.
+
+> ⚠️ **Disclaimer:** Ma-Eternal is **not a medical or diagnostic platform**.  
+> It provides general wellness insights and self-care guidance and does **not replace professional medical advice**.
 
 ---
 
 ## 🎯 Project Objective
 
-To build an **accessible, user-friendly, and emotionally supportive maternal health platform** using a **front-end–focused architecture**, enabling users to:
+To build an **accessible, inclusive, and emotionally supportive maternal wellness platform** that empowers women to:
 
-- Track menstrual cycles and ovulation  
-- Monitor pregnancy progress  
-- Log symptoms, moods, and wellness data  
-- Receive calm, non-medical self-care guidance  
+- Track menstrual cycles and ovulation effortlessly  
+- Monitor pregnancy progress week by week  
+- Maintain nutrition, hydration, and supplement routines  
+- Reflect on mood, stress, and mental wellness  
+- Receive **AI-powered, non-diagnostic wellness guidance**  
+- Feel supported in knowing **when to seek professional care**
 
-—all through a comforting, inclusive interface.
+The goal is **confidence and comfort — not diagnosis**.
 
 ---
 
 ## 🚀 Live Demo
 
 🔗 **Website:** https://ma-eternal-blush.vercel.app/  
-🎥 **Demo Video:** https://youtu.be/iN_0Txvz6HE?si=GnIIPgk228kauFEV
+🎥 **Demo Video:** https://youtu.be/iN_0Txvz6HE
 
 ---
 
 ## 🖥️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **UI Framework:** Lovable.dev (component-based UI generation)  
-- **AI Assistant:** Google Gemini API  
-- **Styling:** Soft UI, warm pastel palette, accessibility-first layouts  
-- **Architecture:** Modular, mobile-first component structure  
-- **Backend:** *Not required for core functionality*
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- Vite  
+
+### Styling & UI
+- Tailwind CSS  
+- Mobile-first, responsive design  
+- Soft pastel color palette  
+- Accessibility-focused typography and spacing  
+
+### AI & Intelligence
+- **Google Gemini API** – maternal wellness guidance, explanations, and conversational support  
+
+### Architecture
+- Frontend-focused, modular component design  
+- No backend required for core functionality  
+
+### Deployment
+- **Vercel**
+
+---
+
+## 🌟 Key Features
+
+### 🩸 CycleSense — Period & Ovulation Tracking
+- Predict menstrual cycles and fertile windows  
+- Log symptoms, moods, cravings, and energy levels  
+- Clear visual calendar for easy understanding  
+
+### 🤰 BabyBloom — Pregnancy Tracking
+- Week-by-week pregnancy progress visualization  
+- Trimester identification and milestones  
+- Due date countdown and weekly logs  
+
+### 🍽️ NutriNest — Nutrition Planner
+- Meal logging for breakfast, lunch, dinner, and snacks  
+- Hydration tracking with daily goals  
+- Supplement checklist for pregnancy nutrition  
+
+### 🧘 MindEase — Mental Wellness
+- Daily emotional check-ins (mood, stress, energy, sleep)  
+- Guided breathing exercises  
+- Private mood journaling for reflection  
+
+### 💬 MamaAI — AI Wellness Assistant
+- Calm, empathetic responses to maternal health questions  
+- Non-judgmental and easy-to-understand explanations  
+- Encourages monitoring vs professional consultation when needed  
+- Powered by **Google Gemini API**
+
+### 🔐 Privacy-First by Design
+- Optional login  
+- Minimal sensitive data usage  
+- No forced data persistence  
+- User-controlled wellness logs  
 
 ---
 ## 📸 Screenshots
@@ -196,19 +253,21 @@ Trusted resources, AI support, and guidance whenever you need it.
 .
 ├── .env
 ├── .gitignore
-├── bun.lockb
-├── components.json
-├── eslint.config.js
+├── screenshots/
+│ ├── home.png
+│ ├── cyclesense.png
+│ ├── pregnancy.png
+│ ├── nutrition.png
+│ ├── wellness.png
+│ └── ai-assistant.png
 ├── index.html
-├── package-lock.json
 ├── package.json
+├── package-lock.json
 ├── postcss.config.js
 ├── tailwind.config.ts
-├── tsconfig.app.json
 ├── tsconfig.json
-├── tsconfig.node.json
-├──  vite.config.ts
-└── README.md # This file
+├── vite.config.ts
+└── README.md # Project documentation
 ```
 
 ---
@@ -249,23 +308,52 @@ live-server
 
 ## 👥 Contributors
 
-| Team Member | Role |
-|------------|------|
-| **@aadya2901** | AI Integration, UX Design, Frontend Architecture, Deployment |
+| Name | Role |
+|------|------|
+| **@aadya2901** | Team Lead, AI Integration, UX Design, Frontend Architecture, Deployment, Documentation |
 | **@ananyamishra13** | Page Development, UI Components, Output Sections |
 | **@iam-anish15** | UI Styling, Visual Design, Frontend Enhancements |
 
 ---
 
+## 🛣️ Future Enhancements & Roadmap
+
+### ✅ Already Implemented
+- Cycle and pregnancy tracking modules  
+- Nutrition and mental wellness dashboards  
+- AI-powered maternal wellness assistant  
+- Privacy-first, front-end-only architecture  
+
+### 🚧 Planned Enhancements
+- Reminder notifications for cycle phases and appointments  
+- Expanded multilingual support  
+- Personalized wellness recommendations based on usage patterns  
+
+### ⚠️ Deferred (Billing / Scope-Dependent)
+- Backend integration for long-term data persistence  
+- Location-based hospital and doctor recommendations  
+  *(Planned using Maps APIs; deferred to avoid billing during hackathon phase)*
+
+---
+
 ## 🤝 Contributing
 
-We welcome suggestions and improvements:
+We welcome suggestions, improvements, and feature contributions:
 
 1. Fork the repository  
-2. Create a feature branch  
-3. Commit your changes  
-4. Push the branch  
-5. Open a Pull Request  
+2. Create your feature branch  
+  ```
+   git checkout -b feature/YourFeature
+  ```
+3. Commit your changes
+  ```
+  git commit -m "Add Your Feature"
+  ```
+4. Push to the branch
+  ```
+  Push to the branch
+  ```
+5. Open a Pull Request
 
 ---
 
@@ -279,3 +367,4 @@ This project is licensed under the **MIT License**.
 
 > **“Empowering women with comfort, confidence, and compassionate digital care.”** 🌸
 
+Ma-Eternal is built to support awareness, emotional well-being, and informed choices — offering women a calm, respectful digital companion throughout their maternal health journey.
