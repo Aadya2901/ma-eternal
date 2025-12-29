@@ -37,62 +37,156 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 - **Backend:** *Not required for core functionality*
 
 ---
+## 📸 Screenshots
 
-## 🌟 Features
-
-### 🌸 CycleSense — Period & Ovulation Tracker
-- Predict periods, fertile windows, and ovulation  
-- Log symptoms, moods, cravings, and energy levels  
-- Smart reminders for cycle phases  
-
-### 🤰 BabyBloom — Pregnancy Tracker
-- Week-by-week fetal development updates  
-- Nutrition and self-care checklists  
-- Doctor appointment reminders  
-
-### 💬 MamaAI — AI Health Assistant
-- Private, non-judgmental maternal health guidance  
-- Simple explanations of symptoms  
-- Strictly non-medical, self-care–oriented responses  
-
-### 🍽️ NutriNest — Nutrition Planner
-- Personalized meal suggestions  
-- Cycle-phase–based diet recommendations  
-- Trimester-wise pregnancy nutrition guides  
-
-### 🧘 MindEase — Mental Wellness Dashboard
-- Mood journaling and emotional check-ins  
-- Mindfulness and self-care prompts  
-- Calm, distraction-free wellness space  
-
-### 🔐 Privacy & Comfort
-- Optional login  
-- Minimal sensitive data usage  
-- Soft, comforting UI optimized for women’s health  
+### 🏠 Home / Landing Page
+![Home / Landing Page](screenshots/home.png)
+*Embrace Every Moment of Motherhood*  
+Your trusted digital companion from first period to pregnancy and beyond.
 
 ---
 
-## 📸 Screenshots
+### ⭐ Platform Highlights
+![Platform Highlights](screenshots/highlights.png)
+*Trusted, Private, and Always There for You*  
+24/7 AI support with a privacy-first approach for maternal wellness.
 
-> *(Add screenshots inside a `/screenshots` folder and update paths below)*
+---
 
-### 🌸 Home Page
-![Home](screenshots/home.png)
+### 🧰 Core Wellness Tools
+![Core Wellness Tools](screenshots/core-tools.png)
+*Everything You Need for Your Wellness*  
+Comprehensive tools designed to support every stage of maternal health.
 
-### 🩸 CycleSense – Period Tracker
-![CycleSense](screenshots/cyclesense.png)
+---
 
-### 🤰 BabyBloom – Pregnancy Tracker
-![BabyBloom](screenshots/babybloom.png)
+### 🧩 Wellness Modules
+![Wellness Modules](screenshots/modules.png)
+*Designed with Care for Every Maternal Need*  
+From cycle tracking to mental wellness — all in one place.
 
-### 💬 MamaAI – AI Assistant
-![MamaAI](screenshots/mamaai.png)
+---
 
-### 🧘 MindEase – Mental Wellness
-![MindEase](screenshots/mindease.png)
+## 🩸 Cycle & Pregnancy Tracking
 
-### 🍽️ NutriNest – Nutrition Planner
-![NutriNest](screenshots/nutrinest.png)
+### 🩸 CycleSense — Period Tracker
+![CycleSense Period Tracker](screenshots/cyclesense.png)
+*Understand Your Cycle with Confidence*  
+Track periods, predict ovulation, and log symptoms effortlessly.
+
+---
+
+### 🤰 BabyBloom — Pregnancy Setup
+![BabyBloom Setup](screenshots/pregnancy-setup.png)
+*Start Tracking Your Pregnancy Journey*  
+Personalized insights begin with your due date.
+
+---
+
+### 👶 BabyBloom — Pregnancy Progress
+![BabyBloom Progress](screenshots/pregnancy-progress.png)
+*Your Baby’s Growth, Week by Week*  
+Visual milestones, trimester insights, and weekly logs.
+
+---
+
+## 🍽️ Nutrition & Wellness
+
+### 🍽️ NutriNest — Nutrition Planner
+![NutriNest Nutrition Planner](screenshots/nutrition.png)
+*Nourishment Tailored to Your Journey*  
+Track meals, hydration, and supplements with ease.
+
+---
+
+### 🥗 Smart Nutrition Guidance
+![Healthy Meal Ideas](screenshots/meal-ideas.png)
+*Healthy Meal Ideas for Every Day*  
+Balanced meal suggestions aligned with maternal needs.
+
+---
+
+## 🧘 Mental Wellness
+
+### 🌿 Mental Wellness Dashboard
+![Mental Wellness Dashboard](screenshots/wellness-dashboard.png)
+Track your mood, stress, energy, and sleep with daily emotional check-ins.
+
+---
+
+### 🧠 Mindfulness & Breathing Exercise
+![Breathing Exercise](screenshots/breathing-exercise.png)
+Guided breathing exercises to reduce stress and promote calmness.
+
+---
+
+### 📖 Mood Journal
+![Recent Journal Entries](screenshots/journal-entries.png)
+Reflect on your thoughts and emotions through private journaling.
+
+---
+
+## 💬 AI Support
+
+### 🤖 MamaAI — Maternal Health Assistant
+![AI Assistant Chat](screenshots/ai-assistant.png)
+A caring, non-judgmental AI companion for maternal wellness questions and guidance.
+
+---
+
+## 📚 Resources & Trust
+
+### 📘 Health Resources & Emergency Support
+![Resources Page](screenshots/resources.png)
+Trusted articles, emergency contacts, and wellness information for every stage.
+
+---
+
+## ℹ️ About & Contact
+
+### 💖 About Ma-Eternal
+![About Page](screenshots/about.png)
+Learn about our mission, story, and commitment to compassionate maternal care.
+
+---
+
+### ✉️ Contact Us
+![Contact Page](screenshots/contact.png)
+Reach out for support, feedback, or questions — your privacy is our priority.
+
+---
+
+## 🔐 Authentication
+
+### 🔑 Login
+![Login Page](screenshots/login.png)
+Secure login to access your personalized maternal wellness dashboard.
+
+---
+
+### 📝 Sign Up
+![Signup Page](screenshots/signup.png)
+Create a free account to begin your maternal wellness journey.
+
+---
+
+### 🔒 Account Creation
+![Create Account](screenshots/create-account.png)
+Simple and secure onboarding designed with user comfort in mind.
+
+---
+
+### 🚀 Get Started
+![Get Started](screenshots/get-started.png)
+*Ready to Begin Your Journey?*  
+Join thousands of women prioritizing their health with Ma-Eternal.
+
+---
+
+### 🛟 Support & Footer
+![Support & Resources](screenshots/footer.png)
+*Here for You, Always*  
+Trusted resources, AI support, and guidance whenever you need it.
 
 ---
 
