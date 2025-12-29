@@ -199,11 +199,13 @@ Reach out for support, feedback, or questions — your privacy is our priority.
 Simple and secure onboarding designed with user comfort in mind.
 
 ### 🔑 Login
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.png) 
+<br>
 Secure login to access your personalized maternal wellness dashboard.
 
 ### 📝 Sign Up
 ![Signup Page](screenshots/signup.png)
+<br>
 Create a free account to begin your maternal wellness journey.
 
 ### 🚀 Get Started
