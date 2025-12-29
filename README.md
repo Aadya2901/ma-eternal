@@ -1,62 +1,69 @@
-# 🌸 Ma-Eternal – Care. Comfort. Confidence.  
+# 🌸 Ma-Eternal – Care. Comfort. Confidence.
 *A Maternal Health & Wellness Web App*
 
 **Ma-Eternal** is a responsive, empathetic, and privacy-first web application designed to support women throughout their reproductive health journey — from menstruation and ovulation to pregnancy and postpartum well-being.
 
-With cycle tracking, pregnancy insights, nutrition guides, mental wellness tools, and an AI-powered assistant, the platform creates a safe, judgment-free space for women to understand and care for their health.
+With cycle tracking, pregnancy insights, nutrition guidance, mental wellness tools, and an AI-powered assistant, the platform creates a **safe, judgment-free digital space** for women to understand and care for their health.
 
 ---
 
 ## 🎯 Project Objective
 
-To build an **accessible, user-friendly, and emotionally supportive maternal health platform** using a front-end–focused architecture — enabling users to track their cycles, monitor pregnancy, log symptoms, and receive wellness guidance through a calm, comforting interface.
+To build an **accessible, user-friendly, and emotionally supportive maternal health platform** using a **front-end–focused architecture**, enabling users to:
+
+- Track menstrual cycles and ovulation  
+- Monitor pregnancy progress  
+- Log symptoms, moods, and wellness data  
+- Receive calm, non-medical self-care guidance  
+
+—all through a comforting, inclusive interface.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Website:** [Visit the Website](https://ma-eternal-blush.vercel.app/) <br>
-**Demo Video:** [Watch Demo on YouTube](https://youtu.be/iN_0Txvz6HE?si=GnIIPgk228kauFEV)
+🔗 **Website:** https://ma-eternal-blush.vercel.app/  
+🎥 **Demo Video:** https://youtu.be/iN_0Txvz6HE?si=GnIIPgk228kauFEV
 
 ---
 
 ## 🖥️ Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Framework:** (Lovable.dev generated UI components)  
-- **AI Assistant:** Gemini API (maternal health guidance)  
-- **Design:** Soft UI, warm color palette, accessible layouts  
+- **UI Framework:** Lovable.dev (component-based UI generation)  
+- **AI Assistant:** Google Gemini API  
+- **Styling:** Soft UI, warm pastel palette, accessibility-first layouts  
 - **Architecture:** Modular, mobile-first component structure  
-- **No backend required** for core app functionality
+- **Backend:** *Not required for core functionality*
 
 ---
 
 ## 🌟 Features
 
-### 🌸 CycleSense (Period & Ovulation Tracker)
+### 🌸 CycleSense — Period & Ovulation Tracker
 - Predict periods, fertile windows, and ovulation  
 - Log symptoms, moods, cravings, and energy levels  
-- Smart reminders for phases and wellness tasks  
+- Smart reminders for cycle phases  
 
-### 🤰 BabyBloom (Pregnancy Tracker)
+### 🤰 BabyBloom — Pregnancy Tracker
 - Week-by-week fetal development updates  
 - Nutrition and self-care checklists  
 - Doctor appointment reminders  
 
-### 💬 MamaAI (AI Health Assistant)
-- Private, non-judgmental answers to maternal health questions  
+### 💬 MamaAI — AI Health Assistant
+- Private, non-judgmental maternal health guidance  
 - Simple explanations of symptoms  
-- Strictly non-medical, self-care–oriented guidance  
+- Strictly non-medical, self-care–oriented responses  
 
-### 🍽️ NutriNest (Cycle & Pregnancy Nutrition)
+### 🍽️ NutriNest — Nutrition Planner
 - Personalized meal suggestions  
-- Diet recommendations adapted to cycle phases  
+- Cycle-phase–based diet recommendations  
 - Trimester-wise pregnancy nutrition guides  
 
-### 🧘 MindEase (Mood & Wellness Dashboard)
+### 🧘 MindEase — Mental Wellness Dashboard
 - Mood journaling and emotional check-ins  
-- Mindfulness & self-care prompts  
-- A calm digital space for mental wellness  
+- Mindfulness and self-care prompts  
+- Calm, distraction-free wellness space  
 
 ### 🔐 Privacy & Comfort
 - Optional login  
@@ -67,31 +74,29 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 
 ## 📸 Screenshots
 
-### 🌸 Home / Landing Page  
-![Home Page](screenshots/home_placeholder.png)
+> *(Add screenshots inside a `/screenshots` folder and update paths below)*
 
-### 🩸 CycleSense – Period & Ovulation Tracker  
-![Cycle Tracker](screenshots/cyclesense_placeholder.png)
+### 🌸 Home Page
+![Home](screenshots/home.png)
 
-### 🤰 BabyBloom – Pregnancy Tracker  
-![Pregnancy Module](screenshots/pregnancy_placeholder.png)
+### 🩸 CycleSense – Period Tracker
+![CycleSense](screenshots/cyclesense.png)
 
-### 💬 MamaAI – Maternal Health Assistant  
-![AI Assistant](screenshots/chatbot_placeholder.png)
+### 🤰 BabyBloom – Pregnancy Tracker
+![BabyBloom](screenshots/babybloom.png)
 
-### 🧘 MindEase – Mental Wellness Dashboard  
-![Mental Wellness](screenshots/wellness_placeholder.png)
+### 💬 MamaAI – AI Assistant
+![MamaAI](screenshots/mamaai.png)
 
-### 🍽️ NutriNest – Nutrition Planner  
-![Nutrition Planner](screenshots/nutrition_placeholder.png)
+### 🧘 MindEase – Mental Wellness
+![MindEase](screenshots/mindease.png)
 
-### 🔐 Privacy & Settings  
-![Settings](screenshots/settings_placeholder.png)
+### 🍽️ NutriNest – Nutrition Planner
+![NutriNest](screenshots/nutrinest.png)
 
 ---
 
 ## 📁 Folder Structure
-
 
 ```
 .
@@ -118,7 +123,7 @@ To build an **accessible, user-friendly, and emotionally supportive maternal hea
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/your-username/ma-eternal.git
 cd ma-eternal
 ```
@@ -135,52 +140,48 @@ Use Live Server for auto-refresh:
 npm install -g live-server
 live-server
 ```
+## 🌍 Deployment (Vercel)
 
-### 3. Deploy on Vercel
+1. Push the repository to GitHub  
+2. Go to **Vercel → New Project**  
+3. Select your repository  
+4. Framework: **Other**  
+5. Root Directory: `/`  
+6. Click **Deploy**
 
-Push repo to GitHub
-
-Go to **Vercel** → **New Project**
-
-Select your repository
-
-Framework: Other
-
-Root directory:  `/`
-
-Click **Deploy**
-
-Your site will be live in seconds.
-
-👥 Contributors
-Team Member	Role
-@aadya2901	AI Integration, UX Design, Frontend Architecture, Deployment
-@ananyamishra13	Page Development, UI Components, Output Sections
-@iam-anish15	UI Styling, Visual Design, Frontend Enhancements
-🤝 Contributing
-
-We welcome suggestions, improvements, and new ideas:
-
-Fork the repo
-
-Create a feature branch
-
-Commit your changes
-
-Push the branch
-
-Open a Pull Request
+🚀 Your site will be live within seconds.
 
 ---
 
-### 📝 License
+## 👥 Contributors
 
-This project is open source under the **MIT License**.
+| Team Member | Role |
+|------------|------|
+| **@aadya2901** | AI Integration, UX Design, Frontend Architecture, Deployment |
+| **@ananyamishra13** | Page Development, UI Components, Output Sections |
+| **@iam-anish15** | UI Styling, Visual Design, Frontend Enhancements |
 
 ---
 
-### 💬 Final Note
+## 🤝 Contributing
 
-“Empowering women with comfort, confidence, and compassionate digital care.” 🌸
+We welcome suggestions and improvements:
 
+1. Fork the repository  
+2. Create a feature branch  
+3. Commit your changes  
+4. Push the branch  
+5. Open a Pull Request  
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 💬 Final Note
+
+> **“Empowering women with comfort, confidence, and compassionate digital care.”** 🌸
 
