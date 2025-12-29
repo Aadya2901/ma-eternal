@@ -101,21 +101,15 @@ The goal is **confidence and comfort — not diagnosis**.
 *Embrace Every Moment of Motherhood*  
 Your trusted digital companion from first period to pregnancy and beyond.
 
----
-
 ### ⭐ Platform Highlights
 ![Platform Highlights](screenshots/highlights.png)
 *Trusted, Private, and Always There for You*  
 24/7 AI support with a privacy-first approach for maternal wellness.
 
----
-
 ### 🧰 Core Wellness Tools
 ![Core Wellness Tools](screenshots/core-tools.png)
 *Everything You Need for Your Wellness*  
 Comprehensive tools designed to support every stage of maternal health.
-
----
 
 ### 🧩 Wellness Modules
 ![Wellness Modules](screenshots/modules.png)
@@ -131,14 +125,10 @@ From cycle tracking to mental wellness — all in one place.
 *Understand Your Cycle with Confidence*  
 Track periods, predict ovulation, and log symptoms effortlessly.
 
----
-
 ### 🤰 BabyBloom — Pregnancy Setup
 ![BabyBloom Setup](screenshots/pregnancy-setup.png)
 *Start Tracking Your Pregnancy Journey*  
 Personalized insights begin with your due date.
-
----
 
 ### 👶 BabyBloom — Pregnancy Progress
 ![BabyBloom Progress](screenshots/pregnancy-progress.png)
@@ -154,8 +144,6 @@ Visual milestones, trimester insights, and weekly logs.
 *Nourishment Tailored to Your Journey*  
 Track meals, hydration, and supplements with ease.
 
----
-
 ### 🥗 Smart Nutrition Guidance
 ![Healthy Meal Ideas](screenshots/meal-ideas.png)
 *Healthy Meal Ideas for Every Day*  
@@ -169,13 +157,9 @@ Balanced meal suggestions aligned with maternal needs.
 ![Mental Wellness Dashboard](screenshots/wellness-dashboard.png)
 Track your mood, stress, energy, and sleep with daily emotional check-ins.
 
----
-
 ### 🧠 Mindfulness & Breathing Exercise
 ![Breathing Exercise](screenshots/breathing-exercise.png)
 Guided breathing exercises to reduce stress and promote calmness.
-
----
 
 ### 📖 Mood Journal
 ![Recent Journal Entries](screenshots/journal-entries.png)
@@ -205,8 +189,6 @@ Trusted articles, emergency contacts, and wellness information for every stage.
 ![About Page](screenshots/about.png)
 Learn about our mission, story, and commitment to compassionate maternal care.
 
----
-
 ### ✉️ Contact Us
 ![Contact Page](screenshots/contact.png)
 Reach out for support, feedback, or questions — your privacy is our priority.
@@ -219,26 +201,18 @@ Reach out for support, feedback, or questions — your privacy is our priority.
 ![Login Page](screenshots/login.png)
 Secure login to access your personalized maternal wellness dashboard.
 
----
-
 ### 📝 Sign Up
 ![Signup Page](screenshots/signup.png)
 Create a free account to begin your maternal wellness journey.
-
----
 
 ### 🔒 Account Creation
 ![Create Account](screenshots/create-account.png)
 Simple and secure onboarding designed with user comfort in mind.
 
----
-
 ### 🚀 Get Started
 ![Get Started](screenshots/get-started.png)
 *Ready to Begin Your Journey?*  
 Join thousands of women prioritizing their health with Ma-Eternal.
-
----
 
 ### 🛟 Support & Footer
 ![Support & Resources](screenshots/footer.png)
