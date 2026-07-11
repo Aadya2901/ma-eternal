@@ -28,6 +28,7 @@ The goal is **confidence and comfort — not diagnosis**.
 ## 🚀 Live Demo
 
 🔗 **Website:** https://ma-eternal-blush.vercel.app/  
+🔗 **Website:** v0-ma-eternal.vercel.app/
 🎥 **Demo Video:** https://youtu.be/iN_0Txvz6HE
 
 ---
